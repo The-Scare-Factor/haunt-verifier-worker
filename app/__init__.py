@@ -1,0 +1,1 @@
+"""Haunt Verifier worker package."""
